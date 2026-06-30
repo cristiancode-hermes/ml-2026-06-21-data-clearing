@@ -1,0 +1,24 @@
+id_cliente,nombre,edad,email,ciudad,fecha_registro,saldo,telefono,activo,pais
+1001,Juan Pérez,32,juan@email.com,MADRID,2024-03-15,1500.50,612345678,TRUE,España
+1002,maria garcia,,maria.garcia@empresa.com,Barcelona,2024/05/20,2300.00,987654321,si,
+1003,Carlos López,28,carlos@ ,Valencia,2024-01-10,0.00,600112233,TRUE,ESPAÑA
+1004,ANA MARTÍNEZ,45,ana@email.com,Madrid,2023-11-30,3200.75,655443322,true,España
+1005,Pedro Sánchez,-5,pedro@email.com,Sevilla,2024-02-28,800.20,,TRUE,ESPAÑA
+1006,Laura Fernández,29,laura@email.com,Madrid,2024-07-05,-500.00,677889900,false,España
+1007,Juan Pérez,32,juan@email.com,MADRID,2024-03-15,1500.50,612345678,TRUE,España
+1008,Miguel Ruiz,35,miguel@,,2024-04-18,4500.00,622334455,True,
+1009,,50,,Bilbao,2023-12-01,99999.99,688112233,TRUE,España
+1010,Elena Torres,90,elena.torres@,MADRID,2024-09-12,1200.00,699000111,false,España
+1011,Roberto Díaz,41,roberto@email.com,Murcia,2024-06-30,2500.00,633445566,TRUE,ESPAÑA
+1012,Juan Pérez,32,juan@email.com,MADRID,2024-03-15,1500.50,612345678,TRUE,España
+1013,Silvia Gómez,,silvia@email.com,Valencia,2024-08-14,3400.00,644556677,true,España
+1014,Carlos López,28,carlos@ ,Valencia,2024-01-10,0.00,600112233,TRUE,ESPAÑA
+1015,Ana Martínez,45,ana@email.com,Madrid,2023-11-30,3200.75,655443322,true,España
+1016,María López,abc,maria.lopez@email.com,Sevilla,2024-10-01,1800.00,611223344,true,España
+1017,David Fernández,38,david@empresa.com,,2023-05-15,2900.00,666778899,True,Portugal
+1018,  Pedro Sánchez  ,-5,pedro@email.com,Sevilla,2024-02-28,800.20,,TRUE,ESPAÑA
+1019,,27,,,2024-11-20,1600.50,677889900,false,España
+1020,Carmen Ruiz,50,carmen@email.com,Granada,2024-12-01,2200.00,688990011,TRUE,
+1021,Beatriz Navarro,33,beatriz@email.com,Zaragoza,2024-03-10,2750.00,699000222,true,España
+1001,Juan Pérez,32,juan@email.com,MADRID,2024-03-15,1500.50,612345678,TRUE,España
+1021,Beatriz Navarro,33,beatriz@email.com,Zaragoza,2024-03-10,2750.00,699000222,true,España
